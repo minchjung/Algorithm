@@ -4,31 +4,36 @@ import java.util.*;
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		ArrayList<Integer> arr = new ArrayList<Integer>();
-		Stack<Integer> stack = new Stack<Integer>();
+		Queue<Integer> q1 = new LinkedList<>();
+		Queue<Integer> q2 = new LinkedList<>();
 		
 		int n = sc.nextInt();
  
 		for(int i =0; i < n; i++) { 
 			int a = sc.nextInt();
-			arr.add(a); 
+			q1.add(a); 
 		} 
-		for(int i = 0 ; i < n-1; i++) {
-			int check=0;
-			for (int j = i+1 ; j < n; j++) {
-				if(arr.get(i) < arr.get(j)) {
-					int nxt = arr.get(j);
-					stack.add(nxt);
-					check = -1;
-		 			break; }
-				if(j==n-1 && check==0) {
-					stack.add(-1);}
+		while(!q1.isEmpty()) {
+			int now = q1.poll();
+			while (!q1.isEmpty()){
+				int nxt = q1.poll();
+				q2.offer(nxt);
+				if (nxt > now) {
+					System.out.print(nxt+" ");
+					while(!q2.isEmpty()) {
+						q1.offer(q2.poll());
+					}
+					break;
+				}
+				if(!q1.isEmpty()) {
+					System.out.print(-1+" ");
+					while(!q2.isEmpty()) {
+						q1.offer(q2.poll());
+					}
+					break;
+				}
 			}
 		}
-		stack.add(-1);
-		for(int s :stack) {
-			System.out.print(s+" ");
-		} 
-		
+		System.out.print(-1);
 	}//main String
 }//Main
