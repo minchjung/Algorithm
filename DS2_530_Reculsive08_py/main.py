@@ -1,3 +1,4 @@
+# 목표 : 5! 값 계산 by 재귀 와  callback 
 # 재귀 함수 :
 # 1. Exit condition 
 # 2. Exit 아닐시 data 처리 과정을 정의 
@@ -16,12 +17,9 @@ def reclusive (num) :
         # 2번) 마지막-3 호출 시점 return 상태 : (return값 =3번값)*(num=5) = (24)*(5)
         # 1번) 최초 호출 후 최종 return 상태 : (return값= 2번값) = (24*5) 
 
-
-
 # Callback 함수 
 # - 완료시 처리할 과정 + callback 종료 전까지 처리 할 과정
-#  두과정을 구분 처리하는게 핵심이라 이해하고, 
-#  위 재귀와 같은 값을 얻는 과정을 아래와 같이 구현  
+#   두 과정을 구분 처리해 확장성을 높이는게 핵심이라 이해함 
  
 # 1. Controller 함수: 콜백 호출 완료시 return 처리과정을 정의
 # 2. Callback 함수: Exit 조건과 아닐시 data 처리 과정을 정의  
