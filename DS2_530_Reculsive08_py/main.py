@@ -24,8 +24,8 @@ def reclusive (num) :
 #  위 재귀와 같은 값을 얻는 과정을 아래와 같이 구현  
 
 # 1. Controller 함수: 콜백 호출 완료시 return 처리과정을 정의
-# 2. Callback 함수 Exit 조건과 아닐시 data 처리 과정을 정의  
-# Callback 함수 호출 이후, 조건 처리해 BackTracking 또한 일괄 처리 해 줄 수 있어 보인다. 
+# 2. Callback 함수: Exit 조건과 아닐시 data 처리 과정을 정의  
+# 3. Controller 함수에서 callback 호출 이후 과정을 다시 정의 내리면 =>BackTracking 
 def eventController(event, num, callback):
     return callback(event,num) * num  
         # 5번) 마지막 return 상태 : (return값=event:1)*(num=1) 
