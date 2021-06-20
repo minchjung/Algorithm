@@ -1,4 +1,5 @@
 # 목표 : 5! 값 계산 by 재귀 와  callback 
+
 # 재귀 함수 :
 # 1. Exit condition 
 # 2. Exit 아닐시 data 처리 과정을 정의 
@@ -20,7 +21,6 @@ def reclusive (num) :
 # Callback 함수 
 # - 완료시 처리할 과정 + callback 종료 전까지 처리 할 과정
 #   두 과정을 구분 처리해 확장성을 높이는게 핵심이라 이해함 
- 
 # 1. Controller 함수: 콜백 호출 완료시 return 처리과정을 정의
 # 2. Callback 함수: Exit 조건과 아닐시 data 처리 과정을 정의  
 # 3. Controller 함수에서 callback 호출 이후 과정을 다시 정의 내리면 =>BackTracking 
