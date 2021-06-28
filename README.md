@@ -7,3 +7,4 @@
 * [BOJ 9019 DSLR ](https://github.com/minchjung/Algorithm/wiki/BFS)
 ### Greedy
 * [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/Greedy)
+* [BOJ 1202 보석 도둑]()
