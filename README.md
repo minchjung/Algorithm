@@ -2,7 +2,7 @@
 * 설명 및 기록 작성 Started 6.25  
 
 ### BruteForce 
-* 01. [BOJ 14225 부분수열의 합](https://github.com/minchjung/Algorithm/wiki/BruteForce-or-Reclusive)
+* 01. [BOJ 14225 부분수열의 합](https://github.com/minchjung/Algorithm/wiki/BruteForce)  
 ### BFS
 * 01. [BOJ 9019 DSLR ](https://github.com/minchjung/Algorithm/wiki/BFS)
 ### Greedy
