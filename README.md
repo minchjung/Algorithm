@@ -11,4 +11,4 @@
 ### Bitmask
 1. [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/BitMask)  
 ### Divide and Conquer 
-1. [BOJ 10815 숫자 카드]()  
+1. [BOJ 10815 숫자 카드](https://github.com/minchjung/Algorithm/wiki/%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5)  
