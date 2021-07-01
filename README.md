@@ -12,3 +12,6 @@
 1. [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/BitMask)  
 ### Divide and Conquer 
 1. [BOJ 10815 숫자 카드](https://github.com/minchjung/Algorithm/wiki/Quick-Sort)  
+### Binary Search 
+1. [BOJ 1790 수 이어쓰기2](https://github.com/minchjung/Algorithm/wiki/BinarySearch)
+2. (https://github.com/minchjung/Algorithm/blob/main/DS3_820_BinarySearch01_cpp/main.cpp)  
