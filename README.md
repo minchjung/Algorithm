@@ -14,4 +14,6 @@
 1. [BOJ 10815 숫자 카드](https://github.com/minchjung/Algorithm/wiki/Quick-Sort)  
 ### Binary Search 
 1. [BOJ 1790 수 이어쓰기2](https://github.com/minchjung/Algorithm/wiki/BinarySearch)
-2. (https://github.com/minchjung/Algorithm/blob/main/DS3_820_BinarySearch01_cpp/main.cpp)  
+2. [BOJ 1654 랜선 자르기](https://github.com/minchjung/Algorithm/wiki/BinarySearch02)  
+
+ 
