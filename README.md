@@ -13,6 +13,5 @@
 ### Binary Search (Quick Sort)
 1. [BOJ 1790 수 이어쓰기2](https://github.com/minchjung/Algorithm/wiki/BinarySearch)
 2. [BOJ 1654 랜선 자르기](https://github.com/minchjung/Algorithm/wiki/BinarySearch02)  
-3. [BOJ 10815 숫자 카드](https://github.com/minchjung/Algorithm/wiki/Quick-Sort)  
-
- 
+3. [BOJ 2805 나무 자르기](https://github.com/minchjung/Algorithm/wiki/BinarySearch03)  
+4. [BOJ 10815 숫자 카드](https://github.com/minchjung/Algorithm/wiki/Quick-Sort)  
