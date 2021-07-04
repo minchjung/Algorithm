@@ -5,7 +5,8 @@
 1.  [BOJ 14225 부분수열의 합](https://github.com/minchjung/Algorithm/wiki/BruteForce)  
 2.  [BOJ 17406 배열 돌리기 4](https://github.com/minchjung/Algorithm/wiki/BruteForce02)
 ### BFS
-1. [BOJ 9019 DSLR ](https://github.com/minchjung/Algorithm/wiki/BFS)
+1. [BOJ 9019 DSLR ](https://github.com/minchjung/Algorithm/wiki/BFS)  
+2. [BOJ 17141 연구소 2](https://github.com/minchjung/Algorithm/wiki/BFS02)  
 ### Greedy
 1. [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/Greedy)
 2. [BOJ 1202 보석 도둑](https://github.com/minchjung/Algorithm/wiki/Greedy02)
