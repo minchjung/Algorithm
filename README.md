@@ -3,6 +3,7 @@
 
 ### BruteForce  
 1.  [BOJ 14225 부분수열의 합](https://github.com/minchjung/Algorithm/wiki/BruteForce)  
+2.  [BOJ 17406 배열 돌리기 4](https://github.com/minchjung/Algorithm/wiki/BruteForce02)
 ### BFS
 1. [BOJ 9019 DSLR ](https://github.com/minchjung/Algorithm/wiki/BFS)
 ### Greedy
