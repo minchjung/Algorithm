@@ -7,6 +7,7 @@
 ### BFS
 1. [BOJ 9019 DSLR ](https://github.com/minchjung/Algorithm/wiki/BFS)  
 2. [BOJ 17141 연구소 2](https://github.com/minchjung/Algorithm/wiki/BFS02)  
+3. [*BOJ 17142 연구소 3 <-시간 초과 해결필요 ! Re by cpp ](https://github.com/minchjung/Algorithm/wiki/BFS03)  
 ### Greedy
 1. [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/Greedy)
 2. [BOJ 1202 보석 도둑](https://github.com/minchjung/Algorithm/wiki/Greedy02)
