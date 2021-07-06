@@ -21,3 +21,6 @@
 ### String Sort 
 1. [BOJ 9935 문자열 폭발](https://github.com/minchjung/Algorithm/wiki/String-Sort)    
 2. [BOJ 16968 차량 번호판1](https://github.com/minchjung/Algorithm/wiki/String-Sort02)
+### DP 
+1. [BOJ DP1](https://github.com/minchjung/Algorithm/wiki/DP)    
+2. [BOJ DP2](https://github.com/minchjung/Algorithm/wiki/DP02)    
