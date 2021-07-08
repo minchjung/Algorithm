@@ -23,4 +23,6 @@
 2. [BOJ 16968 차량 번호판1](https://github.com/minchjung/Algorithm/wiki/String-Sort02)
 ### DP 
 1. [BOJ 12865 평범한 배낭](https://github.com/minchjung/Algorithm/wiki/DP)    
-2. [BOJ 11060 점프 점프](https://github.com/minchjung/Algorithm/wiki/DP02)    
+2. [BOJ 11060 점프 점프](https://github.com/minchjung/Algorithm/wiki/DP02)      
+3. [BOJ 12869 뮤탈리스크](https://github.com/minchjung/Algorithm/wiki/DP03)  
+  
