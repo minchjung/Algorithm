@@ -28,7 +28,6 @@
 3. [BOJ 12869 뮤탈리스크](https://github.com/minchjung/Algorithm/wiki/DP03)  
   
 ### Programmers 
-1. [카카오_인턴2021_숫자 문자열과 영단어]()  
-2. [카카오_인턴20201_거리 두기 확인하기]()  
-3. [카카오_인턴20201_표 편집]()  
-4. 
+1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
+2. [카카오_인턴2021_거리 두기 확인하기](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_02/py.py)    
+3. [카카오_인턴2021_표 편집](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_03/py.py)    
