@@ -7,11 +7,11 @@
 ### BFS
 1. [BOJ 9019 DSLR ](https://github.com/minchjung/Algorithm/wiki/BFS)  
 2. [BOJ 17141 연구소 2](https://github.com/minchjung/Algorithm/wiki/BFS02)  
-3. [*BOJ 17142 연구소 3 <-시간 초과 해결필요 ! Re by cpp ](https://github.com/minchjung/Algorithm/wiki/BFS03) 
+3. [*BOJ 17142 연구소 3 **⚠️시간 초과** Re by cpp ](https://github.com/minchjung/Algorithm/wiki/BFS03) 
 4. [BOJ 16932](https://www.acmicpc.net/problem/16932)     
 ### Greedy
 1. [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/Greedy)
-2. [BOJ 1202 보석 도둑<-?어디감?](https://github.com/minchjung/Algorithm/wiki/Greedy02)
+2. [BOJ 1202 보석 도둑<-⚠️어디감?](https://github.com/minchjung/Algorithm/wiki/Greedy02)
 ### Bitmask
 1. [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/BitMask)   
 ### Binary Search (Quick Sort)
@@ -31,4 +31,4 @@
 ### Just for Fun
 1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
 2. [카카오_인턴2021_거리 두기 확인하기](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_02/py.py)    
-3. [카카오_인턴2021_표 편집 미해결](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_03/py.py)    
+3. [카카오_인턴2021_표 편집 **⚠️미해결!!**](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_03/py.py)    
