@@ -7,7 +7,7 @@ public class Main {
 		
 		int n = sc.nextInt(); 
 		sc.nextLine();
-		// stack = stack the number;    problem = all string info;   alphNum = save numbers coresponds to each character  
+		// stack = stack the number;    problem = all string info;   alphNum = save numbers coresponding to each char  
 		Stack <Double> stack = new Stack<>();
 		String problem = sc.nextLine().trim();
 		int[] alphNum = new int[26];
