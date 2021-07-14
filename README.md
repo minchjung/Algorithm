@@ -27,6 +27,7 @@
 2. [BOJ 11060 점프 점프](https://github.com/minchjung/Algorithm/wiki/DP02)      
 3. [BOJ 12869 뮤탈리스크](https://github.com/minchjung/Algorithm/wiki/DP03)  
 4. [Programmers N으로 표현](https://github.com/minchjung/Algorithm/wiki/DP04) 
+5. [BOJ 2056 작업](https://github.com/minchjung/Algorithm/wiki/DP05)  
 ### Topological Sort[Graph] 
 1. [BOJ 2252 줄 세우기🐳](https://github.com/minchjung/Algorithm/wiki/Topo1)   
 2. [BOJ 1766 문제집🐳](https://github.com/minchjung/Algorithm/wiki/Topo2)
