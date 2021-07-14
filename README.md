@@ -29,6 +29,7 @@
 4. [Programmers N으로 표현](https://github.com/minchjung/Algorithm/wiki/DP04) 
 ### Topological Sort[Graph] 
 1. [BOJ 2252 줄 세우기🐳](https://github.com/minchjung/Algorithm/wiki/Topo1)   
+2. [BOJ 1766 문제집🐳](https://github.com/minchjung/Algorithm/wiki/Topo2)
 
 ### Just for Fun
 1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
