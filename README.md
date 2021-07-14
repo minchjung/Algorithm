@@ -27,6 +27,8 @@
 2. [BOJ 11060 점프 점프](https://github.com/minchjung/Algorithm/wiki/DP02)      
 3. [BOJ 12869 뮤탈리스크](https://github.com/minchjung/Algorithm/wiki/DP03)  
 4. [Programmers N으로 표현](https://github.com/minchjung/Algorithm/wiki/DP04) 
+### Topological Sort[Graph] 
+1. [BOJ 2252](https://github.com/minchjung/Algorithm/wiki/Topo1)   
   
 ### Just for Fun
 1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
