@@ -11,7 +11,7 @@
 4. [BOJ 16932](https://www.acmicpc.net/problem/16932)     
 ### Greedy
 1. [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/Greedy)
-2. [BOJ 1202 보석 도둑<-⚠️풀이추가](https://github.com/minchjung/Algorithm/wiki/Greedy02)
+2. [BOJ 1202 보석 도둑🐳](https://github.com/minchjung/Algorithm/wiki/Greedy02)
 ### Bitmask
 1. [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/BitMask)   
 ### Binary Search (Quick Sort)
@@ -28,8 +28,8 @@
 3. [BOJ 12869 뮤탈리스크](https://github.com/minchjung/Algorithm/wiki/DP03)  
 4. [Programmers N으로 표현](https://github.com/minchjung/Algorithm/wiki/DP04) 
 ### Topological Sort[Graph] 
-1. [BOJ 2252](https://github.com/minchjung/Algorithm/wiki/Topo1)   
-  
+1. [BOJ 2252🐳](https://github.com/minchjung/Algorithm/wiki/Topo1)   
+
 ### Just for Fun
 1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
 2. [카카오_인턴2021_거리 두기 확인하기](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_02/py.py)    
