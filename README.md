@@ -33,7 +33,7 @@
 2. [BOJ 1766 문제집🐳](https://github.com/minchjung/Algorithm/wiki/Topo2)  
 3. [BOJ 1005 ACM Craft](https://github.com/minchjung/Algorithm/wiki/Topo3)    
 4. [BOJ 2056 작업](https://github.com/minchjung/Algorithm/wiki/Topo4)   
-5. [BOJ 2623 음악프로그램🐳](https://github.com/minchjung/Algorithm/wiki/Topo5)  
+5. [BOJ 2623 음악프로그](https://github.com/minchjung/Algorithm/wiki/Topo5)  
 
 ### Tree[Graph]
 1. [BOJ 11437 LCA](https://github.com/minchjung/Algorithm/wiki/Tree1)    
