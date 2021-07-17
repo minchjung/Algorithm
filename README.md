@@ -27,16 +27,19 @@
 2. [BOJ 11060 점프 점프](https://github.com/minchjung/Algorithm/wiki/DP02)      
 3. [BOJ 12869 뮤탈리스크](https://github.com/minchjung/Algorithm/wiki/DP03)  
 4. [Programmers N으로 표현 **✍️**](https://github.com/minchjung/Algorithm/wiki/DP04) 
-### Topological Sort[Graph] 
+### Graph
+#### 1.Topological Sort   
 1. [BOJ 2252 줄 세우기](https://github.com/minchjung/Algorithm/wiki/Topo1)     
 2. [BOJ 1766 문제집🐳](https://github.com/minchjung/Algorithm/wiki/Topo2)  
 3. [BOJ 1005 ACM Craft](https://github.com/minchjung/Algorithm/wiki/Topo3)    
 4. [BOJ 2056 작업](https://github.com/minchjung/Algorithm/wiki/Topo4)   
 5. [BOJ 2623 음악프로그램](https://github.com/minchjung/Algorithm/wiki/Topo5)  
-### Bellman Fords[Graph]  
+#### 2.Bellman Fords  
 1. [BOJ 1865 웜홀](https://github.com/minchjung/Algorithm/wiki/Bellman1)    
 2. [BOJ 11657 타임머신](https://github.com/minchjung/Algorithm/wiki/Bellman2)  
-### Tree[Graph]
+#### 3.Dijkstra 
+1. [BOJ 1916 최소비용 구하기](https://github.com/minchjung/Algorithm/wiki/Dijkstra1)   
+#### 4.Tree
 1. [BOJ 11437 LCA](https://github.com/minchjung/Algorithm/wiki/Tree1)    
 ### Just for Fun
 1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
