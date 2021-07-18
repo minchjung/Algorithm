@@ -39,7 +39,7 @@
 2. [BOJ 11657 타임머신](https://github.com/minchjung/Algorithm/wiki/Bellman2)  
 #### 3.Dijkstra 
 1. [BOJ 1916 최소비용 구하기](https://github.com/minchjung/Algorithm/wiki/Dijkstra1)    
-2. [BOJ 11779 최소비용 구하기2](https://github.com/minchjung/Algorithm/wiki/Dijkstra2)      
+2. [BOJ 11779 최소비용 구하기2, **경로 복원법**](https://github.com/minchjung/Algorithm/wiki/Dijkstra2)      
 3. [BOJ 1238 파티🥭](https://github.com/minchjung/Algorithm/blob/main/DS3_931Dijkstra04/931Dijkstra%5BG4%5D1238.py)    
 4. [BOJ 4485 녹색 옷 입은 애가 젤다지?🥭](https://github.com/minchjung/Algorithm/blob/main/DS3_931Dijkstra01/main.cpp)      
 
