@@ -36,7 +36,7 @@
 5. [BOJ 2623 음악프로그램](https://github.com/minchjung/Algorithm/wiki/Topo5)  
 #### 2.Bellman Fords  
 1. [BOJ 1865 웜홀](https://github.com/minchjung/Algorithm/wiki/Bellman1)  _기본 구현_          
-2. [BOJ 11657 타임머신](https://github.com/minchjung/Algorithm/wiki/Bellman2) _끊긴 Graph_  
+2. [BOJ 11657 타임머신](https://github.com/minchjung/Algorithm/wiki/Bellman2) _끊김_  
 #### 3.Dijkstra 
 1. [BOJ 1916 최소비용 구하기](https://github.com/minchjung/Algorithm/wiki/Dijkstra1) _기본 구현_       
 2. [BOJ 11779 최소비용 구하기2](https://github.com/minchjung/Algorithm/wiki/Dijkstra2)  _경로 복원_      
