@@ -35,11 +35,11 @@
 4. [BOJ 2056 작업](https://github.com/minchjung/Algorithm/wiki/Topo4)   
 5. [BOJ 2623 음악프로그램](https://github.com/minchjung/Algorithm/wiki/Topo5)  
 #### 2.Bellman Fords  
-1. [BOJ 1865 웜홀 **기본 구현*](https://github.com/minchjung/Algorithm/wiki/Bellman1)    
-2. [BOJ 11657 타임머신 **끊긴 Graph**](https://github.com/minchjung/Algorithm/wiki/Bellman2)  
+1. [BOJ 1865 웜홀](https://github.com/minchjung/Algorithm/wiki/Bellman1) 기본 구현          
+2. [BOJ 11657 타임머신](https://github.com/minchjung/Algorithm/wiki/Bellman2) 끊긴 Graph  
 #### 3.Dijkstra 
-1. [BOJ 1916 최소비용 구하기 **기본 구현**](https://github.com/minchjung/Algorithm/wiki/Dijkstra1)    
-2. [BOJ 11779 최소비용 구하기2, **경로 복원법**](https://github.com/minchjung/Algorithm/wiki/Dijkstra2)      
+1. [BOJ 1916 최소비용 구하기](https://github.com/minchjung/Algorithm/wiki/Dijkstra1) 기본 구현       
+2. [BOJ 11779 최소비용 구하기2](https://github.com/minchjung/Algorithm/wiki/Dijkstra2)  경로 복원      
 3. [BOJ 1238 파티🥭](https://github.com/minchjung/Algorithm/blob/main/DS3_931Dijkstra04/931Dijkstra%5BG4%5D1238.py)    
 4. [BOJ 4485 녹색 옷 입은 애가 젤다지?🥭](https://github.com/minchjung/Algorithm/blob/main/DS3_931Dijkstra01/main.cpp)      
 
