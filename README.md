@@ -23,7 +23,7 @@
 1. [BOJ 9935 문자열 폭발](https://github.com/minchjung/Algorithm/wiki/String-Sort)    
 2. [BOJ 16968 차량 번호판1](https://github.com/minchjung/Algorithm/wiki/String-Sort02)
 ### DP 
-1. [BOJ 12865 평범한 배낭](https://github.com/minchjung/Algorithm/wiki/DP)    
+1. [BOJ 12865 평범한 배낭 **⚠️Issue!!** for DP tree or not 7/29](https://github.com/minchjung/Algorithm/wiki/DP)    
 2. [BOJ 11060 점프 점프](https://github.com/minchjung/Algorithm/wiki/DP02)      
 3. [BOJ 12869 뮤탈리스크](https://github.com/minchjung/Algorithm/wiki/DP03)  
 4. [Programmers N으로 표현 **✍️**](https://github.com/minchjung/Algorithm/wiki/DP04) 
