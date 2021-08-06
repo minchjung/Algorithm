@@ -55,10 +55,8 @@
 5. [기능개발](https://github.com/minchjung/Algorithm/blob/main/Programmers%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9CLv2.py)    
 6. [소수찾기](https://github.com/minchjung/Algorithm/blob/main/Programmers%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0Lv2.py)  
 7. [124 나라의 숫자](https://github.com/minchjung/Algorithm/blob/main/Programmers_124%EB%82%98%EB%9D%BC.cpp)  
-8. []()  
-9. []()  
-10. []()  
 
+### Thats Sus
 ### 참고 표시
 🥭 : 코드⭕ + 설명⭕ + Wiki✖️    
 🐳 : 코드⭕ + 설명✖️ + Wiki⭕  
