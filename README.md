@@ -1,6 +1,6 @@
 # Algorithm
 * 설명 및 기록 작성 Started 6.25  
-
+🇰🇷
 ### BruteForce  
 1.  [BOJ 14225 부분수열의 합](https://github.com/minchjung/Algorithm/wiki/BruteForce)  
 2.  [BOJ 17406 배열 돌리기 4](https://github.com/minchjung/Algorithm/wiki/BruteForce02)
