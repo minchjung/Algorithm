@@ -54,10 +54,10 @@
 4. [오픈채팅](https://github.com/minchjung/Algorithm/blob/main/Programmers_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)  
 5. [기능개발](https://github.com/minchjung/Algorithm/blob/main/Programmers%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9CLv2.py)    
 6. [소수찾기](https://github.com/minchjung/Algorithm/blob/main/Programmers%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0Lv2.py)  
-7. [124 나라의 숫자](https://github.com/minchjung/Algorithm/blob/main/Programmers_124%EB%82%98%EB%9D%BC.cpp)  
-8. [가장 큰수](https://github.com/minchjung/Algorithm/blob/main/prob.py)  
-9. [카펫](https://github.com/minchjung/Algorithm/blob/main/Carpet.py)  
-10.[부족한 수 채우기](https://github.com/minchjung/Algorithm/blob/main/py%20copy.py)  
+7. [124 나라의 숫자](https://github.com/minchjung/Algorithm/blob/main/Programmers_124%EB%82%98%EB%9D%BC.cpp)   
+8. [가장 큰수](https://github.com/minchjung/Algorithm/blob/main/prob.py)   
+9. [카펫](https://github.com/minchjung/Algorithm/blob/main/Carpet.py)   
+10. [부족한 수 채우기](https://github.com/minchjung/Algorithm/blob/main/py%20copy.py)    
 ### Thats Sus
 ### 참고 표시
 🥭 : 코드⭕ + 설명⭕ + Wiki✖️    
