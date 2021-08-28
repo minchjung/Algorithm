@@ -12,13 +12,13 @@ for i in range(9) :
   for j in range(9) :
     if board[i][j] == 0 : stack.append([i,j])
 
-# 가로, 세로 중복 검사
+# Check col 
 def colCheck(col, number)  :
   for i in range(9) :
     if board[i][col] == number :return False; 
   return True; 
 
-# 3x3 중복 검사
+# Check 3x3
 def crossCheck(x,y,number) : 
   startX = (x//3)*3
   startY = (y//3)*3
@@ -27,26 +27,26 @@ def crossCheck(x,y,number) :
       if board[i][j] == number : return False; 
   return True; 
 
-# DFS
-def DFS  (k) :
+# BackTracking
+def BackTracking  (k) :
   # break condtion 
-  global done, ans;  
+  global done, ans; 
   if done : return 
   if k == len(stack) : # no blank => break 
     done = True;  # to stop the repeating return
     for i in range(9) : 
-      print(*board[i])
+      print(*board[i]) # print Answer
     return 
   
   # process for recursion
   row, col = stack[k];
   for num in range(1,10) : 
-    # check  가로 , 세로, 3x3  
-    if colCheck(col,num) is False: continue; 
-    if crossCheck(row, col, num) is False : continue; 
-    if num in board[row]  : continue;
-    board[row][col] = num
-    DFS(k+1)
-    board[row][col] = 0 ; 
+    # check  row , col, 3x3  
+    if num in board[row]  : continue; # row
+    if colCheck(col,num) is False: continue; # col 
+    if crossCheck(row, col, num) is False : continue; # 3x3 
+    board[row][col] = num # put that value on the blank spot
+    BackTracking(k+1) # recursive call same function for the next spot
+    board[row][col] = 0 ; # back Track if it returns with no answer (no break condition)
 
-DFS(0)
+BackTracking(0)
