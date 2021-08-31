@@ -16,7 +16,7 @@
 4. [BOJ 16932](https://www.acmicpc.net/problem/16932)     
 ### BackTracking  
 1. [BOJ 15649](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking01/py.py)   
-2. [BOJ 15650](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking02/800BackTracking%5BS3%5D15650%20.py)   
+2. [BOJ 15650 조합](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking02/800BackTracking%5BS3%5D15650%20.py)   
 3. [BOJ 15651](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking03/800BackTracking%5BS3%5D15651%20.py)  
 4. [BOJ 15654](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking05/810BackTracking%5BS3%5D15654.py)  
 5. [BOJ 15655](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking06/810BackTracking%5BS3%5D15655Comb.py)  
