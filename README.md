@@ -22,8 +22,8 @@
 4. [BOJ 15654](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking05/810BackTracking%5BS3%5D15654.py)  
 5. [BOJ 15655](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking06/810BackTracking%5BS3%5D15655Comb.py)  
 6. [BOJ 15656](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking07/810BackTracking%5BS3%5D15656-Permutation%20.py)  
-7. [BOJ 9663](https://github.com/minchjung/Algorithm/blob/main/DS3_830BackTracking09/830BackTracking%5BG5%5D9663_N-Queen.py)  
-8. [BOJ 15657](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking08/810BackTracking%5BS3%5D15657-Redundant-Permutation%20.py)    
+7. [BOJ 15657](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking08/810BackTracking%5BS3%5D15657-Redundant-Permutation%20.py)    
+8. [BOJ 9663](https://github.com/minchjung/Algorithm/blob/main/DS3_830BackTracking09/830BackTracking%5BG5%5D9663_N-Queen.py)  
 10. [BOJ 2580 🍎](https://github.com/minchjung/Algorithm/blob/main/830_backTracking10_2580.py)       
 
 ### Bitmask 
