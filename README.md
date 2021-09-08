@@ -4,7 +4,7 @@
 ### BruteForce    
 1.  [BOJ 14225 부분수열의 합 🍎](https://github.com/minchjung/Algorithm/wiki/BruteForce)  
 2.  [BOJ 17406 배열 돌리기 4 🍎](https://github.com/minchjung/Algorithm/wiki/BruteForce02)
-3.  [Programmers 행렬 테두리 회전]()  
+3.  [Programmers 행렬 테두리 회전](https://github.com/minchjung/Algorithm/blob/main/Programmers_Bruteforce.py)    
 
 ### Greedy 
 1. [BOJ 2185 동전 뒤집기 🍎](https://github.com/minchjung/Algorithm/wiki/Greedy)
