@@ -79,7 +79,7 @@
 10. [부족한 금액 계산하기](https://github.com/minchjung/Algorithm/blob/main/py%20copy.py)    
 
 ### Simulation  
-1. [BOJ 16233 인구이동]()  
+1. [BOJ 16234 인구이동](https://github.com/minchjung/Algorithm/blob/main/16234.py)  
 
 ### 참고 표시
 🐳 : 코드⭕ + 설명✖️ 
