@@ -77,6 +77,10 @@
 8. [가장 큰수](https://github.com/minchjung/Algorithm/blob/main/prob.py)   
 9. [카펫](https://github.com/minchjung/Algorithm/blob/main/Carpet.py)   
 10. [부족한 금액 계산하기](https://github.com/minchjung/Algorithm/blob/main/py%20copy.py)    
+
+### Simulation  
+1. [BOJ 16233 인구이동]()  
+
 ### 참고 표시
 🐳 : 코드⭕ + 설명✖️ 
 🍎 : 코드⭕ + 설명⭕
