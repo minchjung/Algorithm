@@ -81,6 +81,7 @@
 ### Simulation  
 1. [BOJ 16234 인구이동](https://github.com/minchjung/Algorithm/blob/main/16234.py)    
 2. [BOJ 16235 나무재테크](https://github.com/minchjung/Algorithm/blob/main/16235.py)  
+3. [BOJ 17144 미세먼지 안녕!](https://github.com/minchjung/Algorithm/blob/main/17144.py)  
 ### 참고 표시
 🐳 : 코드⭕ + 설명✖️ 
 🍎 : 코드⭕ + 설명⭕
