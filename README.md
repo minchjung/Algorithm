@@ -83,6 +83,7 @@
 2. [BOJ 16235 나무재테크](https://github.com/minchjung/Algorithm/blob/main/16235.py)  
 3. [BOJ 17144 미세먼지 안녕!](https://github.com/minchjung/Algorithm/blob/main/17144.py)  
 4. [BOJ 17143 낚시왕](https://github.com/minchjung/Algorithm/blob/main/17143.py)    
+5. [BOJ 17140 이차원 배열 연산](https://github.com/minchjung/Algorithm/blob/main/17140.cpp)
 ### 참고 표시
 🐳 : 코드⭕ + 설명✖️ 
 🍎 : 코드⭕ + 설명⭕
