@@ -46,7 +46,12 @@
 2. [BOJ 11060 점프 점프 🍎](https://github.com/minchjung/Algorithm/wiki/DP02)      
 3. [BOJ 12869 뮤탈리스크 🍎](https://github.com/minchjung/Algorithm/wiki/DP03)  
 4. [Programmers N으로 표현 🍎 **✍️**](https://github.com/minchjung/Algorithm/wiki/DP04) 
-
+### Simulation  
+1. [BOJ 16234 인구이동](https://github.com/minchjung/Algorithm/blob/main/16234.py)    
+2. [BOJ 16235 나무재테크](https://github.com/minchjung/Algorithm/blob/main/16235.py)  
+3. [BOJ 17144 미세먼지 안녕!](https://github.com/minchjung/Algorithm/blob/main/17144.py)  
+4. [BOJ 17143 낚시왕](https://github.com/minchjung/Algorithm/blob/main/17143.py)    
+5. [BOJ 17140 이차원 배열 연산](https://github.com/minchjung/Algorithm/blob/main/17140.cpp)
 ### Graph
 #### 1.Topological Sort 🍎  
 1. [BOJ 2252 줄 세우기](https://github.com/minchjung/Algorithm/wiki/Topo1)     
@@ -78,12 +83,7 @@
 9. [카펫](https://github.com/minchjung/Algorithm/blob/main/Carpet.py)   
 10. [부족한 금액 계산하기](https://github.com/minchjung/Algorithm/blob/main/py%20copy.py)    
 
-### Simulation  
-1. [BOJ 16234 인구이동](https://github.com/minchjung/Algorithm/blob/main/16234.py)    
-2. [BOJ 16235 나무재테크](https://github.com/minchjung/Algorithm/blob/main/16235.py)  
-3. [BOJ 17144 미세먼지 안녕!](https://github.com/minchjung/Algorithm/blob/main/17144.py)  
-4. [BOJ 17143 낚시왕](https://github.com/minchjung/Algorithm/blob/main/17143.py)    
-5. [BOJ 17140 이차원 배열 연산](https://github.com/minchjung/Algorithm/blob/main/17140.cpp)
+
 ### 참고 표시
 🐳 : 코드⭕ + 설명✖️ 
 🍎 : 코드⭕ + 설명⭕
