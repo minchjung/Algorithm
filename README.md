@@ -35,6 +35,9 @@
 2. [BOJ 1654 랜선 자르기 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch02)  
 3. [BOJ 2805 나무 자르기 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch03)  
 4. [BOJ 10815 숫자 카드 🍎](https://github.com/minchjung/Algorithm/wiki/Quick-Sort)  
+5. [BOJ 10816 숫자 게임2](https://github.com/minchjung/Algorithm/wiki/BinarySearch04)   
+[👉 Upper and Lower Bound🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch04)   
+
 
 ### String Sort 
 1. [BOJ 9935 문자열 폭발 🍎](https://github.com/minchjung/Algorithm/wiki/String-Sort)    
