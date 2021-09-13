@@ -30,14 +30,15 @@
 ### Bitmask 
 1. [BOJ 2185 동전 뒤집기 🍎](https://github.com/minchjung/Algorithm/wiki/BitMask)   
 
-### Binary Search (Quick Sort) 
+### Binary Search
 1. [BOJ 10815 숫자 카드 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch)  
 2. [BOJ 1654 랜선 자르기 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch02)  
-3. [BOJ 2805 나무 자르기 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch03)  
-4. [BOJ 10816 숫자 게임2](https://github.com/minchjung/Algorithm/wiki/BinarySearch04)   
+3. [BOJ 2805 나무 자르기 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch03)   
+4. [BOJ 10816 숫자 게임2](https://github.com/minchjung/Algorithm/wiki/BinarySearch04)  
+[👉 Upper and Lower Bound🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch04)        
 5. [BOJ 1790 수 이어쓰기2 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch05)
-
-[👉 Upper and Lower Bound🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch04)   
+### Quick Sort  
+1.[Quick Sort by Recursion](https://github.com/minchjung/Algorithm/wiki/QuickSort)  
 
 
 ### String Sort 
