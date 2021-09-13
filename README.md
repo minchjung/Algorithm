@@ -38,7 +38,7 @@
 [👉 Upper and Lower Bound🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch04)        
 5. [BOJ 1790 수 이어쓰기2 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch05)
 ### Quick Sort  
-1.[Quick Sort by Recursion](https://github.com/minchjung/Algorithm/wiki/Quick-Sort)  
+1. [Quick Sort by Recursion](https://github.com/minchjung/Algorithm/wiki/Quick-Sort)  
 
 ### String Sort 
 1. [BOJ 9935 문자열 폭발 🍎](https://github.com/minchjung/Algorithm/wiki/String-Sort)    
@@ -89,5 +89,4 @@
 
 
 ### 참고 표시
-🐳 : 코드⭕ + 설명✖️ 
-🍎 : 코드⭕ + 설명⭕
+🍎 : 코드⭕ + 설명⭕ on Wiki
