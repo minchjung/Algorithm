@@ -37,6 +37,7 @@
 1. [BOJ 2185 동전 뒤집기 🍎](https://github.com/minchjung/Algorithm/wiki/Greedy)
 2. [BOJ 1202 보석 도둑 🐳](https://github.com/minchjung/Algorithm/wiki/Greedy02)  
 3. [Programmers 큰 수 만들기](https://github.com/minchjung/Algorithm/wiki/Greedy03)  
+4. [Programmers 조이스틱](https://github.com/minchjung/Algorithm/wiki/Greedy04)  
 
 ## Graph
 #### 1.Topological Sort 🍎  
