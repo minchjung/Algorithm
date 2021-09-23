@@ -1,19 +1,19 @@
 # Algorithm
 * 설명 및 기록 작성 Started 6.25   
 
-### BruteForce    
+## BruteForce    
 1.  [BOJ 14225 부분수열의 합 🍎](https://github.com/minchjung/Algorithm/wiki/BruteForce)  
 2.  [BOJ 17406 배열 돌리기 4 🍎](https://github.com/minchjung/Algorithm/wiki/BruteForce02)
 3.  [Programmers 행렬 테두리 회전](https://github.com/minchjung/Algorithm/blob/main/Programmers_Bruteforce.py)    
 
-### BFS /DFS 
+## BFS /DFS 
 1. [BOJ 9019 DSLR 🍎](https://github.com/minchjung/Algorithm/wiki/BFS)  
 2. [BOJ 17141 연구소 2 🍎](https://github.com/minchjung/Algorithm/wiki/BFS02)  
 3. [*BOJ 17142 연구소 3 **⚠️시간 초과** ](https://github.com/minchjung/Algorithm/wiki/BFS03) 
 4. [BOJ 16932](https://www.acmicpc.net/problem/16932)  
 5. [BOJ 1926](https://github.com/minchjung/Algorithm/blob/main/DS3_611_BFS_cpp/bfs.cpp)  
 
-### BackTracking  
+## BackTracking  
 1. [BOJ 15649](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking01/py.py)   
 2. [BOJ 15650 조합](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking02/800BackTracking%5BS3%5D15650%20.py)   
 3. [BOJ 15651](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking03/800BackTracking%5BS3%5D15651%20.py)  
@@ -24,20 +24,20 @@
 8. [BOJ 9663](https://github.com/minchjung/Algorithm/blob/main/DS3_830BackTracking09/830BackTracking%5BG5%5D9663_N-Queen.py)  
 10. [BOJ 2580 🍎](https://github.com/minchjung/Algorithm/blob/main/830_backTracking10_2580.py)       
 
-### Bitmask 
+## Bitmask 
 1. [BOJ 2185 동전 뒤집기 🍎](https://github.com/minchjung/Algorithm/wiki/BitMask)   
 
-### DP 
+## DP 
 1. [BOJ 12865 평범한 배낭 🍎 **⚠️Issue!!** for DP tree or not 7/29](https://github.com/minchjung/Algorithm/wiki/DP)    
 2. [BOJ 11060 점프 점프 🍎](https://github.com/minchjung/Algorithm/wiki/DP02)      
 3. [BOJ 12869 뮤탈리스크 🍎](https://github.com/minchjung/Algorithm/wiki/DP03)  
 4. [Programmers N으로 표현 🍎 **✍️**](https://github.com/minchjung/Algorithm/wiki/DP04) 
 
-### Greedy 
+## Greedy 
 1. [BOJ 2185 동전 뒤집기 🍎](https://github.com/minchjung/Algorithm/wiki/Greedy)
 2. [BOJ 1202 보석 도둑 🐳](https://github.com/minchjung/Algorithm/wiki/Greedy02)
 
-### Graph
+## Graph
 #### 1.Topological Sort 🍎  
 1. [BOJ 2252 줄 세우기](https://github.com/minchjung/Algorithm/wiki/Topo1)     
 2. [BOJ 1766 문제집🐳](https://github.com/minchjung/Algorithm/wiki/Topo2)  
@@ -56,10 +56,10 @@
 #### 4.Tree 🍎
 1. [BOJ 11437 LCA](https://github.com/minchjung/Algorithm/wiki/Tree1)   
 
-### Hash 
+## Hash 
 1. [Programmers 위장](https://github.com/minchjung/Algorithm/wiki/Hash)   
 
-### Sorting 
+## Sorting 
 #### 1.Binary Search
 1. [BOJ 10815 숫자 카드 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch)  
 2. [BOJ 1654 랜선 자르기 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch02)  
@@ -74,12 +74,12 @@
 1. [BOJ 9935 문자열 폭발 🍎](https://github.com/minchjung/Algorithm/wiki/String-Sort)    
 2. [BOJ 16968 차량 번호판1 🍎](https://github.com/minchjung/Algorithm/wiki/String-Sort02)  
 3. [BOJ KMP ⚠️어디갔지]()     
-### 4.Sorting etc 
+#### 4.Sorting etc 
 1. [Programmers 복서 정렬하기](https://github.com/minchjung/Algorithm/wiki/Sorting-etc01)  
 2. [Programmers 모음사전](https://github.com/minchjung/Algorithm/wiki/Sorting-etc02)  
 3. [Programmers 직업군 추천하기](https://github.com/minchjung/Algorithm/wiki/Sorting-etc03)  
 
-### Simulation  
+## Simulation  
 1. [BOJ 16234 인구이동](https://github.com/minchjung/Algorithm/blob/main/16234.py)    
 2. [BOJ 16235 나무재테크](https://github.com/minchjung/Algorithm/blob/main/16235.py)  
 3. [BOJ 17144 미세먼지 안녕!](https://github.com/minchjung/Algorithm/blob/main/17144.py)  
@@ -87,7 +87,7 @@
 5. [BOJ 17140 이차원 배열 연산](https://github.com/minchjung/Algorithm/blob/main/17140.cpp)
 
 
-### Just for Fun 🐳
+## Just for Fun 🐳
 1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
 2. [카카오_인턴2021_거리 두기 확인하기](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_02/py.py)    
 3. [카카오_인턴2021_표 편집 **⚠️50% accuracy!!** **No fun at all**](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_03/py.py)  
