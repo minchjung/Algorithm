@@ -47,6 +47,7 @@
 ### Sorting etc 
 1. [Programmers 복서 정렬하기](https://github.com/minchjung/Algorithm/wiki/Sorting-etc01)  
 2. [Programmers 모음사전](https://github.com/minchjung/Algorithm/wiki/Sorting-etc02)  
+3. [Programmers 직업군 추천하기](https://github.com/minchjung/Algorithm/wiki/Sorting-etc03)  
 ### DP 
 1. [BOJ 12865 평범한 배낭 🍎 **⚠️Issue!!** for DP tree or not 7/29](https://github.com/minchjung/Algorithm/wiki/DP)    
 2. [BOJ 11060 점프 점프 🍎](https://github.com/minchjung/Algorithm/wiki/DP02)      
