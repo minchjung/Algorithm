@@ -36,7 +36,7 @@
 3. [BOJ 2805 나무 자르기 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch03)   
 4. [BOJ 10816 숫자 게임2](https://github.com/minchjung/Algorithm/wiki/BinarySearch04)  
 [👉 Upper and Lower Bound🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch04)        
-5. [BOJ 1790 수 이어쓰기2 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch05)
+5. [BOJ 1790 수 이어쓰기2 🍎](https://github.com/minchjung/Algorithm/wiki/BinarySearch05)  
 ### Quick Sort  
 1. [Quick Sort by Recursion](https://github.com/minchjung/Algorithm/wiki/Quick-Sort)  
 
@@ -77,7 +77,9 @@
 5. [BOJ 4485 녹색 옷 입은 애가 젤다지?](https://github.com/minchjung/Algorithm/blob/main/DS3_931Dijkstra01/main.cpp)      
 
 #### 4.Tree 🍎
-1. [BOJ 11437 LCA](https://github.com/minchjung/Algorithm/wiki/Tree1)    
+1. [BOJ 11437 LCA](https://github.com/minchjung/Algorithm/wiki/Tree1)   
+### Hash 
+1.[Programmers 위장](https://github.com/minchjung/Algorithm/wiki/Hash)  
 ### Just for Fun 🐳
 1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
 2. [카카오_인턴2021_거리 두기 확인하기](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_02/py.py)    
