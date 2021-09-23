@@ -79,7 +79,7 @@
 #### 4.Tree 🍎
 1. [BOJ 11437 LCA](https://github.com/minchjung/Algorithm/wiki/Tree1)   
 ### Hash 
-1.[Programmers 위장](https://github.com/minchjung/Algorithm/wiki/Hash)  
+1. [Programmers 위장](https://github.com/minchjung/Algorithm/wiki/Hash)  
 ### Just for Fun 🐳
 1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
 2. [카카오_인턴2021_거리 두기 확인하기](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_02/py.py)    
