@@ -61,6 +61,9 @@
 ## Hash 
 1. [Programmers 위장](https://github.com/minchjung/Algorithm/wiki/Hash)   
 2. [Programmers 베스트앨범](https://github.com/minchjung/Algorithm/wiki/Hash02)  
+3. [Programmers 복서 정렬하기](https://github.com/minchjung/Algorithm/wiki/Sorting-etc01)  
+4. [Programmers 모음사전](https://github.com/minchjung/Algorithm/wiki/Sorting-etc02)  
+5. [Programmers 직업군 추천하기](https://github.com/minchjung/Algorithm/wiki/Sorting-etc03)  
 
 ## Sorting 
 #### 1.Binary Search
@@ -77,10 +80,6 @@
 1. [BOJ 9935 문자열 폭발](https://github.com/minchjung/Algorithm/wiki/String-Sort)    
 2. [BOJ 16968 차량 번호판1](https://github.com/minchjung/Algorithm/wiki/String-Sort02)  
 3. [BOJ KMP ⚠️어디갔지]()     
-#### 4.Sorting etc 
-1. [Programmers 복서 정렬하기](https://github.com/minchjung/Algorithm/wiki/Sorting-etc01)  
-2. [Programmers 모음사전](https://github.com/minchjung/Algorithm/wiki/Sorting-etc02)  
-3. [Programmers 직업군 추천하기](https://github.com/minchjung/Algorithm/wiki/Sorting-etc03)  
 
 ## Simulation  
 1. [BOJ 16234 인구이동](https://github.com/minchjung/Algorithm/blob/main/16234.py)    
