@@ -28,7 +28,7 @@
 1. [BOJ 2185 동전 뒤집기](https://github.com/minchjung/Algorithm/wiki/BitMask)   
 
 ## DP 
-1. [BOJ 12865 평범한 배낭 **⚠️Issue!!** for DP tree or not 7/29](https://github.com/minchjung/Algorithm/wiki/DP)    
+1. [BOJ 12865 평범한 배낭 ~~**⚠️Issue!!** for DP tree or not 7/29~~](https://github.com/minchjung/Algorithm/wiki/DP)    
 2. [BOJ 11060 점프 점프](https://github.com/minchjung/Algorithm/wiki/DP02)      
 3. [BOJ 12869 뮤탈리스크](https://github.com/minchjung/Algorithm/wiki/DP03)  
 4. [Programmers N으로 표현](https://github.com/minchjung/Algorithm/wiki/DP04) 
