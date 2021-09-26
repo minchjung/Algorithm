@@ -57,6 +57,7 @@
 5. [BOJ 4485 녹색 옷 입은 애가 젤다지?](https://github.com/minchjung/Algorithm/blob/main/DS3_931Dijkstra01/main.cpp)      
 #### 4.Tree
 1. [BOJ 11437 LCA](https://github.com/minchjung/Algorithm/wiki/Tree1)   
+2. [BOJ 1991 트리 순회](https://github.com/minchjung/Algorithm/blob/main/traverse_tree_S1_.js)    
 
 ## Hash 
 1. [Programmers 위장](https://github.com/minchjung/Algorithm/wiki/Hash)   
