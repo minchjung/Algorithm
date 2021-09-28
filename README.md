@@ -59,7 +59,7 @@
 1. [BOJ 11437 LCA](https://github.com/minchjung/Algorithm/wiki/Tree1)   
 2. [BOJ 1991 트리 순회](https://github.com/minchjung/Algorithm/blob/main/traverse_tree_S1_.js)    
 3. [BOJ 2263 트리의 순회](https://github.com/minchjung/Algorithm/wiki/Tree03)   
-[🔴 Nodejs call stack size exceed 🔴](https://github.com/minchjung/Algorithm/wiki/Tree03)  
+[🔴 Nodejs call stack size exceed 🔴](https://github.com/minchjung/Algorithm/wiki/Tree03#love_you_gesture-%EC%9E%A0%EA%B9%90%EB%A7%8C)  
 
 ## Hash 
 1. [Programmers 위장](https://github.com/minchjung/Algorithm/wiki/Hash)   
