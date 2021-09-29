@@ -105,4 +105,3 @@
 
 ## 번외 
 [🔴 Nodejs call stack size exceed 🔴](https://github.com/minchjung/Algorithm/wiki/Tree03#love_you_gesture-%EC%9E%A0%EA%B9%90%EB%A7%8C)  
-[🔴 백준? vs Programmers? 🔴](https://github.com/minchjung/Algorithm/wiki/Tree03#love_you_gesture--%EB%B0%B1%EC%A4%80-vs-programmers)  
