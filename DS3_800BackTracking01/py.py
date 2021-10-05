@@ -15,5 +15,5 @@ def gogo(k):
         comb[k] = i 
         isUsed[i]=True 
         gogo(k+1) # return here and  
-        isUsed[i]=False # <-- back in the place     
+        isUsed[i]=False # <-- to track in backward     
 gogo(0)
