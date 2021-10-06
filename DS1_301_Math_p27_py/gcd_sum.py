@@ -16,7 +16,7 @@ for _ in range(t) :
     test = deque(list(map(int, input().split()))) 
     # clear ans list for every test case
     ans.clear()
-    if test[0]==1: # if its only one value
+    if test[0]==1: # if it has only one value
         print(0)
         break 
     case = test.popleft() # pop the number of test case
