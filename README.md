@@ -103,6 +103,6 @@
 9. [카펫](https://github.com/minchjung/Algorithm/blob/main/Carpet.py)   
 10. [부족한 금액 계산하기](https://github.com/minchjung/Algorithm/blob/main/py%20copy.py)    
 ## Test Case 
-
+1. [Test01](https://github.com/minchjung/Algorithm/wiki/Test_set01)    
 ## 번외 
 [🔴 Nodejs call stack size exceed 🔴](https://github.com/minchjung/Algorithm/wiki/Tree03#love_you_gesture-%EC%9E%A0%EA%B9%90%EB%A7%8C)  
