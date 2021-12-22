@@ -1,0 +1,1 @@
+/home/minch/Desktop/tem/tem/adv_dp_knap/dp.js

@@ -1,0 +1,1 @@
+/home/minch/Desktop/tem/tem/m_2/js.js
