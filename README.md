@@ -9,7 +9,7 @@
 ## BFS /DFS 
 1. [BOJ 9019 DSLR](https://github.com/minchjung/Algorithm/wiki/BFS)  
 2. [BOJ 17141 연구소 2](https://github.com/minchjung/Algorithm/wiki/BFS02)  
-3. [*BOJ 17142 연구소 3 ~~**⚠️시간 초과**~~ ](https://github.com/minchjung/Algorithm/wiki/BFS03) 
+3. [*BOJ 17142 연구소 3 ~~**⚠️시간 초과**~~ 해결 ](https://github.com/minchjung/Algorithm/wiki/BFS03) 
 4. [BOJ 16932](https://www.acmicpc.net/problem/16932)  
 5. [BOJ 1926](https://github.com/minchjung/Algorithm/blob/main/DS3_611_BFS_cpp/bfs.cpp)  
 
