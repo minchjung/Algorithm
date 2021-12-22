@@ -90,7 +90,8 @@
 4. [BOJ 17143 낚시왕](https://github.com/minchjung/Algorithm/blob/main/17143.py)    
 5. [BOJ 17140 이차원 배열 연산](https://github.com/minchjung/Algorithm/blob/main/17140.cpp)
 
-
+## Alogrithm by JS 
+[Javascript](https://github.com/minchjung/Algorithm/tree/main/algorithm_by_js)
 ## Just for Fun 🐳
 1. [카카오_인턴2021_숫자 문자열과 영단어](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_01/py.py)    
 2. [카카오_인턴2021_거리 두기 확인하기](https://github.com/minchjung/Algorithm/blob/main/Programmers_Kakao2021_Intership_02/py.py)    
