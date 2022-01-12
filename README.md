@@ -12,7 +12,8 @@
 3. [*BOJ 17142 연구소 3 ~~**⚠️시간 초과**~~ 해결 ](https://github.com/minchjung/Algorithm/wiki/BFS03) 
 4. [BOJ 16932](https://www.acmicpc.net/problem/16932)  
 5. [BOJ 1926](https://github.com/minchjung/Algorithm/blob/main/DS3_611_BFS_cpp/bfs.cpp)  
-6. [BOJ 16946](https://velog.io/@minchjung/BOJ-16946)  
+6. [BOJ 16946 벽 부수고 이동하기4](https://velog.io/@minchjung/BOJ-16946)  
+7. [BFS 10026 적록색약](https://velog.io/@minchjung/%EB%B0%B1%EC%A4%80-BOJ-10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD)
 
 ## BackTracking  
 1. [BOJ 15649 순열](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking01/py.py)   
