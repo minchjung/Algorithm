@@ -12,6 +12,7 @@
 3. [*BOJ 17142 연구소 3 ~~**⚠️시간 초과**~~ 해결 ](https://github.com/minchjung/Algorithm/wiki/BFS03) 
 4. [BOJ 16932](https://www.acmicpc.net/problem/16932)  
 5. [BOJ 1926](https://github.com/minchjung/Algorithm/blob/main/DS3_611_BFS_cpp/bfs.cpp)  
+6. [BOJ 16946](https://github.com/minchjung/Algorithm/blob/main/16946.py)  
 
 ## BackTracking  
 1. [BOJ 15649 순열](https://github.com/minchjung/Algorithm/blob/main/DS3_800BackTracking01/py.py)   
