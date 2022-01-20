@@ -83,7 +83,7 @@
 #### 3.String Sort 
 1. [BOJ 9935 문자열 폭발](https://github.com/minchjung/Algorithm/wiki/String-Sort)    
 2. [BOJ 16968 차량 번호판1](https://github.com/minchjung/Algorithm/wiki/String-Sort02)  
-3. ~~[BOJ KMP~~      
+3. ~~[BOJ] KMP~~      
 
 ## Simulation  
 1. [BOJ 16234 인구이동](https://github.com/minchjung/Algorithm/blob/main/16234.py)    
